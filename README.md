@@ -15,6 +15,7 @@
 - Learn Scrum and apply Scrum.
 
 
+<!--
 ## TungHai University
   Teaching Assistant | Oct 2019 - Feb 2020
 > C++/Git/HTML/CSS/JS/Java
