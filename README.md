@@ -7,11 +7,13 @@
 - Wrote both integration test (specflow) and unit test to make systems more stable.
 - Tuned applications and stored procedures performance, and fix security issues.
 
+
 ## Titansoft Pte Ltd
   Intern | Feb 2020 - Aug 2020
 > C#/MVC/Entity Framework/LINQ/JQuery
 - Build Internal promotion and technical reviews system for employees.
 - Learn Scrum and apply Scrum.
+
 
 ## TungHai University
   Teaching Assistant | Oct 2019 - Feb 2020
