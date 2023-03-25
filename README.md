@@ -3,7 +3,7 @@
 > .NET 6/MS SQL/.NET Framework/Kafka/Redis/K8s
 
 ## Titansoft Pte Ltd
-  Intern | Feb 2020 - Aug 2020
+  Intern | Feb 2020 - Jul 2020
 > C#/MVC/Entity Framework/LINQ/JQuery
 
 ## TungHai University
