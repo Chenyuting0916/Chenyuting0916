@@ -1,5 +1,5 @@
 ## Titansoft Pte Ltd
-  Product Developer (Full Stack) | Aug 2020 - Present
+  Product Developer (Full Stack) | Aug 2020 - Apr 2023
 > .NET 6/MS SQL/.NET Framework/Kafka/Redis/K8s
 
 ## Titansoft Pte Ltd
