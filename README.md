@@ -28,19 +28,6 @@
 | **Titansoft** | Software Engineer Intern | 2020.02 — 2020.07 |
 
 <div align="center">
-
-<code>C#</code>
-<code>.NET 6/8</code>
-<code>ASP.NET Core</code>
-<code>SQL Server</code>
-<code>Redis</code>
-<code>Kafka</code>
-<code>gRPC</code>
-<code>Docker</code>
-<code>Kubernetes</code>
-
-<br><br>
-
-東海大學資訊工程 · 日語 JLPT N1
-
+<p><code>C#</code> <code>.NET 6/8</code> <code>ASP.NET Core</code> <code>SQL Server</code> <code>Redis</code> <code>Kafka</code> <code>gRPC</code> <code>Docker</code> <code>Kubernetes</code></p>
+<p>東海大學資訊工程 · 日語 JLPT N1</p>
 </div>
