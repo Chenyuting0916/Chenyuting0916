@@ -1,27 +1,46 @@
-## Titansoft Pte Ltd
-  Product Developer (Full Stack) | Aug 2020 - Apr 2023
-> .NET 6/MS SQL/.NET Framework/Kafka/Redis/K8s
+<div align="center">
 
-## Titansoft Pte Ltd
-  Intern | Feb 2020 - Jul 2020
-> C#/MVC/Entity Framework/LINQ/JQuery
+<h1>Tim Chen</h1>
 
-## TungHai University
-  Teaching Assistant | Oct 2019 - Feb 2020
-> C++/Git/HTML/CSS/JS/Java
+<p>
+  <strong>後端工程師</strong> · C# / .NET · 微服務
+</p>
 
+<p>
+  用 C#／.NET 把既有後端改得更快、更穩。目前在 Gogoro。<br>
+  特定 fallback 呼叫從每天約 75,000 次降到 50 次以下，部分 API 從超過 2 秒降到約 200 毫秒。
+</p>
 
-<!--
-**Chenyuting0916/Chenyuting0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://chenyuting0916.github.io/My-First-Website/">作品集</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/yuting-chen-63738b135/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:tim376755000@gmail.com">Email</a>
+</p>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 公司 | 職位 | 期間 |
+| --- | --- | --- |
+| **Gogoro** | Backend Engineer | 2026.03 — 現在 |
+| **Titansoft** | Product Developer | 2020.08 — 2023.04 |
+| **Titansoft** | Software Engineer Intern | 2020.02 — 2020.07 |
+
+<div align="center">
+
+<code>C#</code>
+<code>.NET 6/8</code>
+<code>ASP.NET Core</code>
+<code>SQL Server</code>
+<code>Redis</code>
+<code>Kafka</code>
+<code>gRPC</code>
+<code>Docker</code>
+<code>Kubernetes</code>
+
+<br><br>
+
+東海大學資訊工程 · 日語 JLPT N1
+
+</div>
