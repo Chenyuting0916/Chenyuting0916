@@ -7,11 +7,6 @@
 </p>
 
 <p>
-  用 C#／.NET 把既有後端改得更快、更穩。目前在 Gogoro。<br>
-  特定 fallback 呼叫從每天約 75,000 次降到 50 次以下，部分 API 從超過 2 秒降到約 200 毫秒。
-</p>
-
-<p>
   <a href="https://chenyuting0916.github.io/My-First-Website/">作品集</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/yuting-chen-63738b135/">LinkedIn</a>
