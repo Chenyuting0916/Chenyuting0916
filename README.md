@@ -14,6 +14,14 @@
   <a href="mailto:tim376755000@gmail.com">Email</a>
 </p>
 
+<img src="assets/profile-banner.gif" width="780" alt="正式環境的三個結果：每日 fallback 呼叫從約 75,000 次降到 50 次以下，超過 2 秒的 API 改善到大約 200 毫秒，單元測試從 41 補到 240。">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,redis,kafka,docker,kubernetes&perline=6" width="468" alt="C#、.NET、Redis、Kafka、Docker、Kubernetes">
+</p>
+
+<p>SQL Server · ASP.NET Core · gRPC</p>
+
 <table align="center">
   <thead>
     <tr>
@@ -41,7 +49,6 @@
   </tbody>
 </table>
 
-<p><code>C#</code> <code>.NET 6/8</code> <code>ASP.NET Core</code> <code>SQL Server</code> <code>Redis</code> <code>Kafka</code> <code>gRPC</code> <code>Docker</code> <code>Kubernetes</code></p>
 <p>日語 JLPT N1</p>
 
 </div>
