@@ -14,15 +14,34 @@
   <a href="mailto:tim376755000@gmail.com">Email</a>
 </p>
 
-</div>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">公司</th>
+      <th align="center">職位</th>
+      <th align="center">期間</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>Gogoro</strong></td>
+      <td align="center">Backend Engineer</td>
+      <td align="center">2026.03 — 現在</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Titansoft</strong></td>
+      <td align="center">Product Developer</td>
+      <td align="center">2020.08 — 2023.04</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Titansoft</strong></td>
+      <td align="center">Software Engineer Intern</td>
+      <td align="center">2020.02 — 2020.07</td>
+    </tr>
+  </tbody>
+</table>
 
-| 公司 | 職位 | 期間 |
-| --- | --- | --- |
-| **Gogoro** | Backend Engineer | 2026.03 — 現在 |
-| **Titansoft** | Product Developer | 2020.08 — 2023.04 |
-| **Titansoft** | Software Engineer Intern | 2020.02 — 2020.07 |
-
-<div align="center">
 <p><code>C#</code> <code>.NET 6/8</code> <code>ASP.NET Core</code> <code>SQL Server</code> <code>Redis</code> <code>Kafka</code> <code>gRPC</code> <code>Docker</code> <code>Kubernetes</code></p>
-<p>東海大學資訊工程 · 日語 JLPT N1</p>
+<p>日語 JLPT N1</p>
+
 </div>
